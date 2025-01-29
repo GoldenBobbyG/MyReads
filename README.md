@@ -18,7 +18,7 @@ During the development of *MyReads*, the team honed their skills in web developm
 This project is licensed under the MIT License. 
 
 ## Installation
-Link to myreads website. 
+https://michel-gomes33.github.io/MyReads/index.html
 ## Features
 Dynamic Interface
 ![](./assets/images/IndexHtml.jpg)
